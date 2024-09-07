@@ -1,4 +1,4 @@
-class BookMdodel {
+class BookModel {
     id: number;
     title: string;
     author?: string;
@@ -22,4 +22,4 @@ class BookMdodel {
     }
 }
 
-export default BookMdodel;
+export default BookModel;
